@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@three/*": ["./src/three/*"],
+      "@assets/*": ["./src/assets/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
